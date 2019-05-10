@@ -4,7 +4,7 @@ A dataset titled **“Medical Cost Personal Dataset”** was used in this study.
 
 **Motivating Data:** Purpose is to analyze correlation between cost and specific variables in the dataset. This analysis is valued by health insurance companies to determine risk and set premiums. 
 
-**Data Analysis:** Calculated Pearson correlation coefficients to determine variables with correlation to cost. Analysis was performed on all variables. Age, BMI (only for smokers), and smoking status were shown to be direct predictors of cost. The other variables demonstrated no significant correlation.
+**Data Analysis:**  Plotted correlogram to determine variables with correlation to cost. Analysis was performed on all variables. Age, BMI (only for smokers), and smoking status were shown to be direct predictors of cost. The other variables demonstrated no significant correlation.
 
 **Model:** Multiple linear regression and polynomial regression were used as the models.  
 
